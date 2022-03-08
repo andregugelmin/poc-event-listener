@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-direction: column;
+}
+main{
+    width: 400px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 250px;
+    height: 40px;
+}
+
+p{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+span{
+    font-size: 24px;
+    color: red;
+}
